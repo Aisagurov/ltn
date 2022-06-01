@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LibreTranslate</string>
+    <string name="title_main_screen">Главный экран</string>
+    <string name="title_favorites">Избранное</string>
+</resources>
