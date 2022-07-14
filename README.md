@@ -1,5 +1,4 @@
 # LibreTranslate
-
 Stack: MVVM, Retrofit, Realm, SharedPreferences, Coroutines, Flow, Dagger Hilt
 
 The application implements real-time text translation, translation language selection, text voicing, voice typing, the ability to save history, delete translation from history by swipe. In the application 1 activity and 2 fragment. Navigation using BottomNavigationView
