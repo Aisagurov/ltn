@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">LibreTranslate</string>
+    <string name="title_main_screen">Главный экран</string>
+    <string name="title_favorites">Избранное</string>
+    <string name="delete_favorites">Удаление избранного</string>
+    <string name="enter_text">Введите текст</string>
+    <string name="delete_entered_text">Удаление текста в поле ввода</string>
+    <string name="direction_translation">Изменение направления перевода</string>
+    <string name="voicing_translation_text">Озвучивание текста перевода</string>
+    <string name="voice_dialing">Голосовой набор</string>
+    <string name="save_translation">Сохранение перевода в избранное</string>
+    <string name="delete_translation_swipe">Иконка удаления перевода смахиванием</string>
+</resources>
